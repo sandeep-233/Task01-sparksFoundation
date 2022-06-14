@@ -1,4 +1,4 @@
-# Task-o1 SparksFoundation
+# Task-01 SparksFoundation
 
 ## GRIPJUN22 Internship Project
 ## Task1 - Prediction using Supervised Machine Learning
